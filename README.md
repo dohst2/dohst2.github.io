@@ -1,4 +1,4 @@
-# AmazonSMP Website
+# AmazonSMP Test Website
 The Official AmazonSMP Test Website 
 
 This is only a test
