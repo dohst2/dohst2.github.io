@@ -1,6 +1,6 @@
 # AmazonSMP Website
-The Official AmazonSMP Website 
+The Official AmazonSMP Test Website 
 
-Will add more content by 20/08/2023
+This is only a test
 
 last updated: 15/08/2023
